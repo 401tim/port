@@ -1,0 +1,66 @@
+body{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    margin: 0;
+    padding: 0;
+    background-color: #e5e5e5;
+}
+
+header{
+    background-color:#85929E;
+    color: rgb(29, 22, 27);
+    text-align: center;
+    padding: 1rem;
+}
+head{
+   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+   color: #000000;
+}
+
+main{
+    padding: 2rem;
+}
+
+
+.detail{
+    margin: 0%;
+}
+
+.chart-section{
+    display: grid;
+    margin: auto;
+    max-width: 50%;
+    background-color: white;
+    border-radius: 8px;
+    padding: 2rem;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+
+
+.circlechart{
+    margin-left: 15%;
+    width: 70%;
+}
+
+
+.container{
+    text-align: center;
+    padding: 100px;
+    color: #000000;
+}
+  
+h1{
+    color:#695A5B;
+}
+
+h2 {
+    color: #333;
+    text-align: center; /* จัดข้อความให้อยู่ตรงกลาง */
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+p{
+    color: #000000;
+    font-style: italic;
+}
